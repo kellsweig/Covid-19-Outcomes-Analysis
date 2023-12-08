@@ -1,15 +1,11 @@
-# Project_4-Group_Project
-
 # Preparing for the next Pandemic:
 ### An analysis of the Covid-19 Pandemic at the State and County Levels
 
-## Problem Statement
-In 2023, with the total number of new coronavirus cases decreasing and the Pandemic beginning to stabilize, Congress directed the Department of Health and Human Services (HHS) to conduct an in-depth analysis of the coronavirus pandemic. After more than 1 million Americans died during the pandemic, Congress tasked HHS with creating a report detailing how the response to Pandemic could have been improved as well as crafting a resiliency plan aimed at reducing death tolls of future pandemics. 
-
-HHS received funding for this analysis and hired our consulting firm, FF consulting, to develop machine learning models that could explain which variables were most strongly linked to covid outcomes. HHS specifically was interested not only in different policy explanations, but also asked us to consider demographics such as age and race, the pre-existing health conditions of the populations, income, education, and any other factors we found to be potentially causational. 
+# Introduction
+For our group assignment as part of a Data Science Immersive Program, our group undertook a significant data science project aimed at understanding the complexities of the Covid-19 pandemic and crafting a resilient plan for future outbreaks. In this fictional scenario, Congress directed the Department of Health and Human Services (HHS) to conduct an in-depth analysis of the Covid-19 pandemic, seeking insights into potential improvements in response strategies and the development of a robust resiliency plan. HHS, armed with funding, engaged our consulting firm, FF Consulting, to employ machine learning models and explore diverse variables ranging from policy considerations to demographics. Our mission was not only to enhance the response to Covid-19 but also to lay the groundwork for mitigating the impact of future pandemics. In the following narrative, we provide a brief overview of our approach, methodologies employed, and the compelling results derived from our analysis, shedding light on key factors influencing Covid-19 outcomes at both state and county levels.
 
 ## Background:
-Both in terms of total deaths, as well as deaths per capita, The United States fared worse than most other countries during the coronavirus pandemic. In the United States, more than 341 people out of 100,000 died due to coronavirus. Only Peru had per population more deaths than the United States (John Hopkins Coronavirus Resource Center). Some states and counties within the United States fared better or worse than others (Lancet study). 
+Both in terms of total deaths, as well as deaths per capita, The United States fared worse than most other countries during the coronavirus pandemic. In the United States, more than 341 people out of every 100,000 died due to coronavirus. Only Peru had per population more deaths than the United States (John Hopkins Coronavirus Resource Center). Some states and counties within the United States fared better or worse than others (Lancet study). 
 
 With the pandemic occurring so recently, there are few comprehensive studies examining the links between coronavirus outcomes and different factors such as demographic differences or policy choices. However we were able to find a few studies examining coronavirus outcomes in the United States and abroad. 
 
